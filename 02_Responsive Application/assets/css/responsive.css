@@ -1,0 +1,149 @@
+/* ==== resonsive classes====== */
+    @media (max-width:1030px){
+        /*  ================================================
+        :: 8.0 Features CSS
+        ================================================ */
+        .margin_top_up {
+            margin-top: -25rem;
+        }
+    }
+    @media (max-width:991px){
+        /*  ================================================
+        :: 3.0 COMMON CSS
+        ================================================ */
+        h1,h2{
+            font-size: 2.5rem;
+        }
+        .ipad_px_30 {
+            padding:0 1.875rem;
+        }
+    
+        /*  ================================================
+        :: 4.0 HEADER CSS
+        ================================================ */
+        .navbar {
+            padding-top: 0.625rem;
+            padding-bottom: 0.75rem;
+        } 
+        .navbar-brand{
+            width:50%;
+        }
+        .navbar-brand img {
+            max-width: 60%;
+        }
+        .navbar-toggler{
+            padding-right:0;
+        }
+        .navbar-toggler:focus{
+            box-shadow: none;
+        }  
+        .navbar-toggler-icon{
+            color:var(--text-white);
+            width:1em;
+            height:1em;
+        }
+        .navbar-sticky-on .navbar-toggler-icon{
+            color:var(--text-black);
+        }
+        .navbar .navbar-nav{
+            background:var(--bg-white);
+            border-radius: 0.188rem;
+            text-align: center;
+        }
+        .navbar .navbar-nav .nav-link{
+            padding:0.625rem 1.5rem;
+            color:var(--text-light-gray);
+        } 
+        .navbar .navbar-nav .nav-link:hover,
+        .navbar .navbar-nav .nav-link.active{
+            color: #ff007a;
+        } 
+    
+    
+        /*  ================================================
+        :: 5.0 HOME CSS
+        ================================================ */   
+        #home{
+            padding-top:7rem;
+        }  
+        #home .row{
+            flex-direction: column-reverse;
+        }
+        #home .home_text{
+            text-align: center;
+            margin-bottom:2rem;
+        }
+        #home .home-download-btn{
+            justify-content: center;
+        }
+        .home-image{
+            text-align: center;
+        }
+        .home-image img{
+            max-width:60%;
+        }
+    
+        /*  ================================================
+        :: 10.0 pricing CSS
+        ================================================ */
+        .single_price {
+            margin-bottom:2.5rem;
+        }
+    }
+    @media (max-width:767px){
+        /*  ================================================
+        :: 3.0 COMMON CSS
+        ================================================ */ 
+        .mobile_px_20 {
+            padding:0 1.25rem;
+        }
+        
+    
+        /*  ================================================
+        :: 5.0 HOME CSS
+        ================================================ */
+        #home{
+            padding-top:5rem;
+        } 
+        #home .home_text h2 {
+            font-size: 2.438rem;
+            line-height: 3.938rem;
+        } 
+        #home .home-download-btn .btn{
+            margin:0;
+        }
+        .home-image{
+            text-align: center;
+            transform: rotate(0deg);
+        }
+    
+        /*  ================================================
+        :: 6.0 Counter CSS
+        ================================================ */
+        .single_counter:nth-child(2):after{
+            display:none;
+        } 
+    
+        /*  ================================================
+        :: 8.0 Features CSS
+        ================================================ */
+        .mobile_px_20{
+            padding:0 1.25rem;
+        }
+        .margin_top_up {
+            margin-top: 0rem;
+        }
+        .features_middle{
+            text-align: center;
+        }
+        .feature_img{
+            text-align: center;
+            padding-top:1.5rem;
+        }
+        .feature_img img{
+            max-width: 95%;
+        }
+         
+    }
+            
+          
