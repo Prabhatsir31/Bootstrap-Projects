@@ -1,0 +1,125 @@
+@media (max-width: 1024px) {
+    /* Custom CSS */
+    h1 {
+        font-size: 3.25rem;
+    }
+
+    h2 {
+        font-size: 1.125rem;
+        line-height: 1.5625rem;
+    } 
+    .wrapper {
+        padding-top: 1.25rem;
+        padding-bottom: 1.25rem;
+    }
+}
+
+@media (max-width: 991px) {
+    /* Custom CSS */
+
+    h4 {
+        font-size: 0.9375rem;
+        margin-bottom: 0.625rem
+    }
+
+    p {
+        font-size: 0.875rem;
+        line-height: 1.3125rem;
+    }
+    .text-content {
+        width: 100%;
+    }
+
+    /* navbar brand */
+    .navigation-wrap .navbar-brand img{
+        height:2.8125rem;
+    }
+    .navbar-toggler i{
+        color:var(--white-color);
+        line-height: 2;
+    }
+    .navigation-wrap{
+        text-align: right;
+        background-color:var(--black-color);
+    }
+    .navigation-wrap .nav-link{
+        line-height: 1.875rem;
+    } 
+
+    /* Banner Design */
+      #home{
+          padding:4.375rem 0 0;
+      } 
+
+    /* top banner */
+    #home .carousel-caption {
+        top:3.5rem;
+    }
+     
+}
+
+@media(max-width:575px) {
+    /* Custom CSS */
+    h1 {
+        font-size: 1.25rem;
+    }
+
+    h2 {
+        font-size: 1rem;
+        line-height: 1rem;
+        margin-bottom: 5px;
+    }
+    .main-btn {
+        height: 20px;
+        line-height: 20px;
+        font-size: 0.9375rem;
+    }  
+    .main-btn::after {
+        transform: translateY(0.9375rem);
+        -webkit-transform: translateY(0.9375rem);
+    } 
+    .main-btn::before {
+        transform: translateY(-0.9375rem);
+        -webkit-transform: translateY(-0.9375rem);
+    }
+
+    /* top banner */
+    #home .carousel-caption {
+        top:1.5rem;
+    }
+    #home .carousel-caption p {
+        margin:5px auto;
+    }
+     
+    
+}
+
+@media (max-width: 430px) {
+    /* Custom CSS */
+    h1 {
+        margin-bottom: 0;
+    }
+
+    /* Top Banner */
+    .top-header{
+        display:none;
+    }
+    #home .carousel-caption p{
+        font-size: 0.75rem;
+        line-height: 1.125rem;
+    }
+    #home .carousel-caption {
+        padding:0;
+    }
+     
+}
+
+@media (max-width: 360px) {
+    /* Top Banner */
+    #home .carousel-caption {
+        top:1rem;
+    }
+     
+}
+        
+      
