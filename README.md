@@ -1,3 +1,3 @@
 # Bootstrap_Project
-### 01_Foodie
-  <a href="https://foodiesapps.netlify.app">Foodie</a>
+### 01 Foodie
+  <a href="https://foodiesapps.netlify.app" style="text-decoration:none;">Foodie</a>
