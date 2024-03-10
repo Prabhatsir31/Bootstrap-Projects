@@ -1,0 +1,102 @@
+@media (max-width:1300px){
+    /* 2 Navbar */
+    .header_wrapper .menu-navbar-nav{
+        width:auto;
+    }
+}
+
+@media (max-width:1230px){
+    /* 2 Navbar */
+    .header_wrapper .nav-item{
+        margin:0 5px;
+    }
+    .header_wrapper .learn-more-btn{
+        padding:12px 10px !important;
+    }
+
+    /* 3 Banner */
+    .banner_wrapper .banner-title {
+        font-size: 50px;
+    }
+}
+
+@media (max-width:1070px){
+    /* 2 Navbar */
+    .header_wrapper .nav-item .nav-link{
+        font-size: 16px;
+    }
+
+    /* 5 About */
+    .about_wrapper .about_title{
+        font-size: 30px;
+    }
+}
+
+@media (max-width:991px){
+    /* 2 Navbar */
+    .header_wrapper .navbar-brand img{
+        width:180px;
+    }
+    .header_wrapper .navbar-toggler:focus{ 
+        box-shadow: none;
+    }
+    .header_wrapper .menu-navbar-nav{
+        text-align: center;
+    }
+    .header_wrapper .nav-item .nav-link{
+        margin-top:15px;
+        font-size: 18px;
+    }
+    .header_wrapper .nav-item:last-child .nav-link{
+        margin-bottom:20px;
+    }
+    .header_wrapper .learn-more-btn{
+        padding:12px 29px !important;
+    }
+    .header_wrapper .navbar-collapse{
+        background:var(--bg-white);
+    }
+
+    /* 3 Banner */
+    .banner_wrapper .banner-title {
+        font-size: 36px;
+    }
+
+    /* 5 About */
+    .about_wrapper .about_number{
+        margin:20px auto;
+    }
+    .about_wrapper .about_title{
+        font-size: 24px;
+    }
+}
+
+@media (max-width: 767px) {
+    /* 3 Banner */
+    .banner_wrapper{
+        padding: 100px 0 100px;
+    }
+    .banner_wrapper .row{
+        flex-direction: column-reverse;
+    }
+    .banner_wrapper .learn-more-btn-section{
+        justify-content: center;
+    }
+
+    /* 7 Pricing */
+    .free_trial .free_title{
+        font-size: 24px;
+    }
+
+    /* 10 FAQs */
+    .faq_wrapper .accordion-button{
+        font-size: 18px;
+    }
+
+    /* 11 Footer */
+    .footer_wrapper .footer_logo img{
+        max-width: 50%; 
+    }
+} 
+        
+      
