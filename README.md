@@ -16,5 +16,8 @@ Deploy Links
 ### 05 E-Commerce of Headphone
   <a href="https://webofheadphone.netlify.app">E-Commerce of Headphones</a>
 
-  ### 06 E-Commerce of Jewellery
+### 06 E-Commerce of Jewellery
   <a href="https://e-commerceofjewellery.netlify.app">E-Commerce of Jewellery</a>
+
+### 07 Digital Marketing
+  <a href="https://digitalmarketi.netlify.app/">Digital Marketing</a>
