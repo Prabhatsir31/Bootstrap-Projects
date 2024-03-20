@@ -1,0 +1,65 @@
+/* Google Poppins Font CDN Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+/* Variables */
+:root{
+    --primary-font-family: 'Poppins', sans-serif;
+    --light-white:#f5f8fa;
+    --gray:#5e6278;
+    --gray-1:#e3e3e3;
+}
+body{
+    font-family:var(--primary-font-family);
+    font-size: 14px;
+} 
+
+/* Main CSS */ 
+.wrapper{
+    padding:0 0 100px;
+    background-image:url('images/bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-attachment: fixed;
+    background-size:contain;
+    min-height: 100%;
+}
+.wrapper .logo img{
+    max-width:40%;
+}
+.wrapper input{
+    background-color: var(--light-white);
+    border-color: var(--light-white);
+    color: var(--gray); 
+}
+.wrapper input:focus{ 
+    box-shadow: none;
+}
+.wrapper .submit_btn{
+    padding:15px;
+    font-weight: 500;
+}
+.wrapper .login_with{
+    padding:15px;
+    font-size: 15px;
+    font-weight: 500;
+    transition:0.3s ease-in-out;
+}
+.wrapper .submit_btn:focus,
+.wrapper .login_with:focus{
+    box-shadow: none;
+}
+.wrapper .login_with:hover{
+    background-color:var(--gray-1);
+    border-color:var(--gray-1);
+}
+.wrapper .login_with img{
+    max-width: 8%;
+}
+        
+      
