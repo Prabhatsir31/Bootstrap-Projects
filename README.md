@@ -23,5 +23,4 @@ Deploy Links
   <a href="https://digitalmarketi.netlify.app/">Digital Marketing</a>
 
 ### 08 Form Pages
-  #### &nbsp;&nbsp;&nbsp; 8.1 
-  <a href="">Login Page</a>
+  #### &nbsp;&nbsp;&nbsp; 8.1 <a href="">Login Page</a>
