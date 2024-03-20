@@ -24,3 +24,4 @@ Deploy Links
 
 ### 08 Form Pages
   #### &nbsp;&nbsp;&nbsp; 8.1  <a href="https://loginforn.netlify.app/">Login Page</a>
+  #### &nbsp;&nbsp;&nbsp; 8.2  <a href="signuform.netlify.app">Signup Page</a>
