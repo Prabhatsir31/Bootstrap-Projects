@@ -1,0 +1,110 @@
+@media (max-width: 1199px) {
+    /* custom css */
+    h1 {
+        font-size: 65px;
+    }
+}
+
+@media (max-width:991px) {
+
+    /* custom css */ 
+
+    h2 {
+        font-size: 30px;
+        line-height: 40px;
+    }
+
+    h3 {
+        font-size: 20px;
+    }
+
+    /* 2 Navbar */
+    .header_wrapper .navbar-brand img {
+        max-width: 80px;
+    }
+
+    .header-scrolled {
+        height: auto;
+    }
+    .header_wrapper .navbar-collapse{
+        margin-top:-2px;
+    }
+    .header_wrapper .menu-navbar-nav {
+        text-align: center;
+        background-color: var(--bg-white);
+        padding-bottom: 15px; 
+    }
+
+    .header_wrapper .nav-item .nav-link {
+        margin-top: 15px;
+    }
+
+    .header_wrapper .navbar-brand img {
+        max-width: 67px;
+        height: auto;
+    }
+
+    /* banner */
+    .banner_wrapper {
+        padding-top: 70px;
+    }
+
+    .banner_wrapper .top-menu .card {
+        height: 200px;
+    }
+
+    /* About */
+    .about_wrapper {
+        padding-bottom: unset;
+    }
+
+    .about_wrapper .card {
+        z-index: 10;
+        right: unset;
+        top: unset;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    /* custom css */
+    h1 {
+        font-size: 40px;
+        line-height: 48px;
+    }
+
+    p {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    /* Menu */
+    .menu_wrapper .row {
+        padding-top: 70px;
+    }
+
+    .menu_wrapper .card h3 span {
+        width: 50px;
+        height: 50px;
+        line-height: 50px;
+        font-size: 30px;
+    }
+
+    /* offers */
+    .offers_wrapper .card .offer-text {
+        width: 65%;
+    }
+
+    /* review */
+    .carousel-caption {
+        bottom: 0;
+    }
+
+    .review_wrapper .carousel-item {
+        min-height: 460px;
+    }
+}
+
+        
+      
