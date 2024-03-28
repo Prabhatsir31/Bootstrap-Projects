@@ -30,10 +30,10 @@ Deploy Links
   #### &nbsp;&nbsp;&nbsp; 8.4  <a href="https://otpverificat.netlify.app/">OTP Verfication Page</a>
   
 ### 09 SEO Website
-  <a href="https://wseowebsite.netlify.app/">SEO Website</a>
+  <a href="https://wseowebsite.netlify.app">SEO Website</a>
 
 ### 10 Restaurent Website
   <a href="https://foodrestaurentweb.netlify.app">Restaurent Website</a>
 
 ### 11 Hotel Web
-
+  <a href="https://hotelmngt.netlify.app">Hotel Web</a>
