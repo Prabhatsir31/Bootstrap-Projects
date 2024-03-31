@@ -75,4 +75,3 @@ var swiper = new Swiper(".our-partner", {
         },
     },
 });
-
