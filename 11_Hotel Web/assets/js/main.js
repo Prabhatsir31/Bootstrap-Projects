@@ -73,6 +73,6 @@ var swiper = new Swiper(".our-partner", {
             slidesPerView: 2,
             spaceBetween: 8,
         },
-},
+    },
 });
 
