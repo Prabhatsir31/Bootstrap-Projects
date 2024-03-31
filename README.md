@@ -38,5 +38,5 @@ Deploy Links
   <a href="https://hotelmngt.netlify.app">Hotel Web</a>
 
 <!--### 12 Foodie Web
-  <a href=""></a
+  <a href=""></a>
 -->
