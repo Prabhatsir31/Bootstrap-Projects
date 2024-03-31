@@ -1,0 +1,145 @@
+@media (max-width: 1199px) {
+
+    /* header */
+    .navbar-expand-lg .navbar-nav {
+        align-items: center;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-link {
+        padding: 0;
+        font-size: .875rem;
+    }
+
+    .main-btn {
+        font-size: .875rem;
+    }
+
+    /* booking area */
+    .booking-area {
+        padding: 3rem .625rem;
+    }
+
+    .booking-area .main-btn {
+        padding-left: .3125rem !important;
+        padding-right: .3125rem !important;
+    }
+
+    /* service */
+    .service-item-wrap .tab-content img {
+        width: 100%;
+    }
+
+    .service-menu-area ul li a {
+        margin-bottom: .8125rem;
+        overflow: hidden;
+    }
+
+    .service-menu-area ul li:nth-child(1) {
+        margin-left: -4.4375rem;
+    }
+
+    .service-menu-area ul li:nth-child(2) {
+        margin-left: -6.9375rem;
+    }
+
+    .service-menu-area ul li:nth-child(3) {
+        margin-left: -9.375rem;
+    }
+
+    .service-menu-area ul li:nth-child(4) {
+        margin-left: -12.8125rem;
+    }
+
+    .service-menu-area ul li a h5 {
+        margin-bottom: .375rem;
+    }
+}
+
+@media (max-width:991px) {
+
+    /* custom css */
+    section {
+        padding: 1.875rem 0;
+    }
+
+    /* 2 Navbar */
+    .header-scrolled {
+        height: auto;
+    }
+
+    .header_wrapper .menu-navbar-nav {
+        text-align: center;
+        background-color: var(--bg-dark-blue);
+        padding-bottom: .9375rem;
+    }
+
+    .header_wrapper .nav-item .nav-link {
+        margin-top: .9375rem;
+    }
+
+    /* banner wrapper */
+    .banner_wrapper {
+        height: 25.625rem;
+    }
+
+    .booking-area {
+        padding: 3.125rem 1.875rem;
+    }
+
+
+    /* About */
+    .about_wrapper {
+        padding-top: 22.375rem;
+    }
+
+    /* services */
+    .service-menu-area {
+        padding:1.5rem 0.5rem;
+    }
+
+    .service-menu-area ul li {
+        margin-left: unset !important;
+    }
+
+    /* room */
+    .room-item .room-content {
+        padding: 2rem 1.875rem;
+    }
+
+}
+
+@media (max-width: 767px) {
+
+    /* custom css */
+    h1 {
+        font-size: 1.875rem;
+        line-height: 2.5rem;
+    }
+
+    h3 {
+        font-size: 1.75rem;
+        line-height: 2.1875rem;
+    }
+
+    h5 {
+        font-size: 1.25rem;
+    }
+
+    p {
+        font-size: .8125rem;
+        line-height: 1.5rem;
+    }
+
+    /* blog */
+    .blog-content {
+        margin: 0;
+    }
+
+    /* footer */
+    .footer_wrapper>div {
+        padding: 0 1.875rem;
+    }
+}
+
+        
+      
