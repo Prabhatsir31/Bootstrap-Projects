@@ -74,7 +74,6 @@ var swiper = new Swiper(".our-partner", {
             spaceBetween: 8,
         },
 
-
 },
 });
 
