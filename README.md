@@ -37,5 +37,5 @@ Deploy Links
 ### 11 Hotel Web
   <a href="https://hotelmngt.netlify.app">Hotel Web</a>
 
-<!--### 12 Dental Website
+### 12 Dental Website
   <a href="">Dental Website</a>
