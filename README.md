@@ -43,7 +43,7 @@ Deploy Links
 ### 13 Portfolio 
   <a href="https://plio.netlify.app">Portfolio</a>
 
-<!--<a href="">Fresh L</a>
+<!--<a href="">Fresh Le</a>
 -->
 
 
