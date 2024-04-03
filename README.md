@@ -20,7 +20,7 @@ Deploy Links
   <a href="https://e-commerceofjewellery.netlify.app">E-Commerce of Jewellery</a>
 
 ### 07 Digital Marketing
-  <a href="https://digitalmarketi.netlify.app/">Digital Marketing</a>
+  <a href="https://digitalmarketi.netlify.app">Digital Marketing</a>
 
 ### 08 Form Pages
   #### &nbsp;&nbsp;&nbsp; 8.1  <a href="https://loginforn.netlify.app/">Login Page</a>
