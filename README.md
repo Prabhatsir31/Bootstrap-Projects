@@ -43,5 +43,5 @@ Deploy Links
 ### 13 Portfolio 
   <a href="https://plio.netlify.app">Portfolio</a>
 
-### 14 Fresh Lem
+### 14 Fresh Lemo
 <a href="https://nibooweb.netlify.app">Fresh Lemon</a>
