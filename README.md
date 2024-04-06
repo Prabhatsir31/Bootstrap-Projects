@@ -49,5 +49,5 @@ Deploy Links
 <a href="https://nibooweb.netlify.app">Fresh Lemon</a>
 
 <!--
-tlify.app/
+lify.app/
 <a href="https://bestvisionweb.netlify.app">Best Vision</a>
