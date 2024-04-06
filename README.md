@@ -50,4 +50,4 @@ Deploy Links
 
 <!--
 https://bestvisionweb.netlify.app/
-<a href="https://bestvisionweb.netl">Best Vision</a>
+<a href="https://bestvisionweb.netli">Best Vision</a>
