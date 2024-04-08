@@ -32,7 +32,7 @@ Deploy Links
   <a href="https://wseowebsite.netlify.app">SEO Website</a>
 
 ### 10 Restaurent Website
-  <a href="https://foodrestaurentweb.netlify.app">Restaurent Website</a>t
+  <a href="https://foodrestaurentweb.netlify.app">Restaurent Website</a>
 
 ### 11 Hotel Web
   <a href="https://hotelmngt.netlify.app">Hotel Web</a>
