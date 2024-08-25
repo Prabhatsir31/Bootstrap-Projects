@@ -1,0 +1,125 @@
+
+@media (max-width:1300px) { 
+    /* custom css */
+    h1{
+        font-size:50px;
+    } 
+
+    /* 2 Navbar */
+     .header_wrapper .menu-navbar-nav{
+         width:auto;
+     }
+}
+
+@media (max-width:1230px) {
+
+    /* 2 Navbar */
+    .header_wrapper .nav-item{
+        margin: 0 5px;
+    }
+     
+
+    /* 3 Banner */
+    .banner_wrapper{
+        padding:50px 0 10px;
+    }
+    
+}
+
+@media (max-width:1070px) {
+
+    /* 2 Navbar */
+    .header_wrapper .nav-item .nav-link{
+        font-size:16px;
+    } 
+    /* banner */
+    .carousel-caption{
+        bottom:1.25rem;
+    }
+     
+}
+
+@media (max-width:992.5px) {
+
+    /* custom css */
+    h1{
+        font-size: 30px;
+    } 
+    h3{
+        font-size: 20px;
+    }
+    h4{
+        font-size: 18px;
+    }
+     
+
+    /* 2 Navbar */
+    .header_wrapper .navbar{
+        background:var(--bg-red);
+    }
+    .header-scrolled{
+        height:auto;
+    }
+    .header_wrapper .navbar-brand img{
+        width:180px;
+    }
+    .header_wrapper .navbar-toggler:focus{
+        box-shadow: none;
+    } 
+    .header_wrapper .menu-navbar-nav{
+        text-align: center;
+    }
+    .header_wrapper .nav-item .nav-link{
+        margin-top:15px;
+    }
+    /* footer css */
+    .footer_wrapper .block_newsletter{
+        border-radius: 30px;
+    }
+     
+}
+
+@media (max-width: 767px) {
+
+    /* Footer */
+    .footer_wrapper .footer_logo img{
+        max-width: 50%;
+    }
+    
+}
+
+@media (max-width: 610px) {
+
+    /* custom css */
+    h1{
+        font-size: 25px;
+    }
+    h3{
+        font-size: 16px;
+    }
+    .main-btn{
+        font-size: 13px !important;
+    }
+     
+
+    /* top banner css */
+    .banner_wrapper{
+        padding-top:90px;
+    }
+    .banner_wrapper .carousel-caption{
+        bottom:-0.25rem;
+    }
+    .banner_wrapper .carousel-inner{
+        height:200px;
+    }
+    .banner_wrapper .carousel-item{
+        height:100%;
+    }
+    .banner_wrapper .carousel-indicators{
+        bottom:-20px;
+    }
+     
+}
+
+        
+      
