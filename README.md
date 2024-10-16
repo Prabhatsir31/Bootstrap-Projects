@@ -12,7 +12,7 @@ Deploy Links
   <a href="https://e-commerceoffashion.netlify.app">E-Commerce</a>
 
 ### 04 Food and Restaurent
-  <a href="https://webofheadphone.netlify.app">Food and Restaurent</a>
+  <a href="https://foodandrestaurent.netlify.app">Food and Restaurent</a>
 
 ### 05 E-Commerce of Headphone
   <a href="https://webofheadphone.netlify.app">E-Commerce of Headphones</a>
