@@ -9,7 +9,7 @@ Deploy Links
   <a href="https://applandingres.netlify.app">Responsive Application</a>
 
 ### 03 E-Commerce
-  <a href="https://e-commerceoffashion.netlify.app">E-Commerce</a>
+  <a href="https://e-commerceoffashion.vercel.app">E-Commerce</a>
 
 ### 04 Food and Restaurent
   <a href="https://foodandrestaurent.netlify.app">Food and Restaurent</a>
