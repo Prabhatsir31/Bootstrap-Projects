@@ -1,7 +1,3 @@
-Sure! Here is a detailed README for the **Hotel Web** project in your Bootstrap Projects repository:
-
----
-
 # Hotel Web
 
 A responsive hotel management website built using HTML, CSS, Bootstrap, and JavaScript. This project demonstrates a modern, mobile-friendly hotel website UI, ideal for showcasing hotel services, room listings, online booking, and contact information.
