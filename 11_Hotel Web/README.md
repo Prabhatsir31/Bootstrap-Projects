@@ -9,7 +9,6 @@ A responsive hotel management website built using HTML, CSS, Bootstrap, and Java
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
 - [Folder Structure](#folder-structure)
@@ -31,13 +30,6 @@ A responsive hotel management website built using HTML, CSS, Bootstrap, and Java
 - Contact page with form and Google Maps embed
 - Sticky navigation bar and smooth scrolling
 - Clean, modern UI built with Bootstrap
-
----
-
-## Screenshots
-
-![Hotel Homepage Screenshot](https://hotelmngt.netlify.app/screenshot-home.png)
-![Room Listings Screenshot](https://hotelmngt.netlify.app/screenshot-rooms.png)
 
 ---
 
